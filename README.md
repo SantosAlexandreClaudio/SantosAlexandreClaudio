@@ -25,7 +25,7 @@
 <a href="https://discord.gg/alexandr_santos" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="mailto:desenvfrontbackend@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/claudio-alexandre-software-engineer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<img align="left"height="250" alt="coding-time" src="toque.gif">
+<img align="left" height="250" alt="coding-time" src="toque.gif">
 </div>
 
 ## ![Snake animation](https://github.com/santosalexandreclaudio/santosalexandreclaudio/blob/output/github-contribution-grid-snake.svg) 
