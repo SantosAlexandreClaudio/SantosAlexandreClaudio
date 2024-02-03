@@ -1,11 +1,11 @@
-<h1 aling="center">Bem vindo ao meu Repositorio Github 🧬</h1>
+<h1 aling="center" >Bem vindo ao meu Repositorio Github 🧬</h1>
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosalexandreclaudio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img aling="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosalexandreclaudio&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
 
-<h1>Tecnologias</h1>
+<h1>Melhores Técnologias</h1>
 <div aling="center">
 <div style="display: inline_block"><br>
   <img src="src/toque.gif" align="center" height="250" alt="src/toque.gif"><br>
